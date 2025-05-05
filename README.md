@@ -1,3 +1,6 @@
+# containerized-api-server
+A containerized web application with RESTful CRUD operations, JWT-based authentication, and rate limiting, deployed on AWS using Docker and cloud-native best practices.
+
 # Fictional Notes API – Adobe Take-Home Assessment
 
 This project is a containerized web application built using **Golang** and the **Gin** framework. It simulates a simple note-taking backend with features like **CRUD operations**, **token-based authentication using JWT**, and **rate limiting**. The application also includes **Swagger UI documentation** for easy API exploration and testing.
